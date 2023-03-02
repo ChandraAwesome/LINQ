@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SARAT CHANDRA\\OneDrive\\Desktop\\Assignments\\LINQ\\LINQ.csproj",
-      "projectName": "LINQ",
-      "projectPath": "C:\\Users\\SARAT CHANDRA\\OneDrive\\Desktop\\Assignments\\LINQ\\LINQ.csproj",
+      "projectUniqueName": "C:\\Users\\SARAT CHANDRA\\OneDrive\\Desktop\\Assignments\\ProductReviewManagementwithLinq\\ProductReviewManagementwithLinq.csproj",
+      "projectName": "ProductReviewManagementwithLinq",
+      "projectPath": "C:\\Users\\SARAT CHANDRA\\OneDrive\\Desktop\\Assignments\\ProductReviewManagementwithLinq\\ProductReviewManagementwithLinq.csproj",
       "packagesPath": "C:\\Users\\SARAT CHANDRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SARAT CHANDRA\\OneDrive\\Desktop\\Assignments\\LINQ\\obj\\",
+      "outputPath": "C:\\Users\\SARAT CHANDRA\\OneDrive\\Desktop\\Assignments\\ProductReviewManagementwithLinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SARAT CHANDRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
